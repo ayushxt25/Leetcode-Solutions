@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0018-4sum](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0053-maximum-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0053-maximum-subarray) |
 ## Backtracking
 |  |
 | ------- |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0053-maximum-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
