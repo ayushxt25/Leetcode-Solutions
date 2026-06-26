@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0041-first-missing-positive](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0076-minimum-window-substring) |
 ## String
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0044-wildcard-matching](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0076-minimum-window-substring) |
 | [0087-scramble-string](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0087-scramble-string) |
 ## Two Pointers
 |  |
@@ -134,4 +136,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
