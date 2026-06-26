@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0073-set-matrix-zeroes](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0128-longest-consecutive-sequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0128-longest-consecutive-sequence) |
 ## String
 |  |
 | ------- |
@@ -158,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0126-word-ladder-ii](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0127-word-ladder) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
