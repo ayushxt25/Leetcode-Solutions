@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0076-minimum-window-substring](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0127-word-ladder) |
 ## String
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0076-minimum-window-substring](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0076-minimum-window-substring) |
 | [0087-scramble-string](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0087-scramble-string) |
 | [0126-word-ladder-ii](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0127-word-ladder) |
 ## Two Pointers
 |  |
 | ------- |
@@ -155,4 +157,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
