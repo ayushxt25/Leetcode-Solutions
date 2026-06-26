@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0127-word-ladder](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0133-clone-graph) |
+| [0138-copy-list-with-random-pointer](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0138-copy-list-with-random-pointer) |
 ## String
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0138-copy-list-with-random-pointer](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0138-copy-list-with-random-pointer) |
 ## Divide and Conquer
 |  |
 | ------- |
