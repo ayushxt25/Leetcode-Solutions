@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0018-4sum](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0018-4sum) |
 | [0036-valid-sudoku](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0053-maximum-subarray) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0041-first-missing-positive) |
 ## String
 |  |
 | ------- |
