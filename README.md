@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0044-wildcard-matching](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0062-unique-paths) |
 ## Backtracking
 |  |
 | ------- |
@@ -76,4 +77,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0044-wildcard-matching) |
+## Math
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
