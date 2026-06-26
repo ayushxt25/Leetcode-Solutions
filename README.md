@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0064-minimum-path-sum) |
+| [0085-maximal-rectangle](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0085-maximal-rectangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0064-minimum-path-sum](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0085-maximal-rectangle) |
 ## Backtracking
 |  |
 | ------- |
@@ -71,10 +73,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0085-maximal-rectangle) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0085-maximal-rectangle) |
 ## Greedy
 |  |
 | ------- |
@@ -98,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0063-unique-paths-ii](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0064-minimum-path-sum) |
+| [0085-maximal-rectangle](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0085-maximal-rectangle) |
 ## Memoization
 |  |
 | ------- |
