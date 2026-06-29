@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0072-edit-distance](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0087-scramble-string) |
+| [0095-unique-binary-search-trees-ii](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0140-word-break-ii) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0037-sudoku-solver) |
+| [0095-unique-binary-search-trees-ii](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0126-word-ladder-ii](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0126-word-ladder-ii) |
 | [0140-word-break-ii](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0140-word-break-ii) |
 ## Linked List
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0101-symmetric-tree](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0101-symmetric-tree](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -279,4 +283,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0397-integer-replacement) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
