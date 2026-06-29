@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0085-maximal-rectangle](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0087-scramble-string) |
 | [0095-unique-binary-search-trees-ii](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0140-word-break-ii) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0062-unique-paths](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
 ## Combinatorics
 |  |
 | ------- |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0101-symmetric-tree](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0101-symmetric-tree](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -287,4 +291,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
