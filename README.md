@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0041-first-missing-positive) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search Tree
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0095-unique-binary-search-trees-ii](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
