@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0037-sudoku-solver) |
+| [0089-gray-code](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0089-gray-code) |
 | [0095-unique-binary-search-trees-ii](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0126-word-ladder-ii](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0126-word-ladder-ii) |
 | [0140-word-break-ii](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0140-word-break-ii) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0029-divide-two-integers](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
 ## Combinatorics
 |  |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
+| [0089-gray-code](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0089-gray-code) |
 | [0397-integer-replacement](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0397-integer-replacement) |
 ## Binary Search Tree
 |  |
