@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0085-maximal-rectangle) |
+| [0094-binary-tree-inorder-traversal](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0316-remove-duplicate-letters](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0321-create-maximum-number) |
 | [0402-remove-k-digits](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
@@ -317,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
