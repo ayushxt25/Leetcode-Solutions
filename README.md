@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0074-search-a-2d-matrix](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0031-next-permutation](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0042-trapping-rain-water) |
 | [0086-partition-list](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0321-create-maximum-number](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0321-create-maximum-number) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0018-4sum](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0179-largest-number) |
 | [0324-wiggle-sort-ii](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0324-wiggle-sort-ii) |
 ## Dynamic Programming
