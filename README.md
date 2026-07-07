@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0140-word-break-ii](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0140-word-break-ii) |
 | [0179-largest-number](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0179-largest-number) |
 | [0219-contains-duplicate-ii](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0321-create-maximum-number](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0321-create-maximum-number) |
 | [0324-wiggle-sort-ii](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0324-wiggle-sort-ii) |
 | [0330-patching-array](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0330-patching-array) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0205-isomorphic-strings](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 ## String
 |  |
 | ------- |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0179-largest-number) |
+| [0229-majority-element-ii](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0324-wiggle-sort-ii](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0324-wiggle-sort-ii) |
 ## Dynamic Programming
 |  |
@@ -395,4 +398,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
