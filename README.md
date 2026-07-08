@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0769-max-chunks-to-make-sorted](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0769-max-chunks-to-make-sorted) |
 | [0853-car-fleet](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0853-car-fleet) |
 | [0907-sum-of-subarray-minimums](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [0962-maximum-width-ramp](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0962-maximum-width-ramp) |
 ## Hash Table
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0142-linked-list-cycle-ii](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0321-create-maximum-number](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0321-create-maximum-number) |
+| [0962-maximum-width-ramp](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0962-maximum-width-ramp) |
 ## Sorting
 |  |
 | ------- |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0853-car-fleet](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [0962-maximum-width-ramp](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0962-maximum-width-ramp) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0853-car-fleet](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [0962-maximum-width-ramp](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0962-maximum-width-ramp) |
 ## Greedy
 |  |
 | ------- |
