@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0219-contains-duplicate-ii](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0432-all-oone-data-structure](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0432-all-oone-data-structure) |
+| [0460-lfu-cache](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0460-lfu-cache) |
 ## String
 |  |
 | ------- |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0142-linked-list-cycle-ii](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0432-all-oone-data-structure) |
+| [0460-lfu-cache](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0460-lfu-cache) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0173-binary-search-tree-iterator](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0432-all-oone-data-structure](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0432-all-oone-data-structure) |
+| [0460-lfu-cache](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0460-lfu-cache) |
 | [0901-online-stock-span](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0901-online-stock-span) |
 ## Counting
 |  |
@@ -487,4 +490,5 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0432-all-oone-data-structure) |
+| [0460-lfu-cache](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
