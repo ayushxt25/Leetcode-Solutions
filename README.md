@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0219-contains-duplicate-ii](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0307-range-sum-query-mutable](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0307-range-sum-query-mutable) |
 | [0321-create-maximum-number](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0321-create-maximum-number) |
 | [0324-wiggle-sort-ii](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0324-wiggle-sort-ii) |
 | [0330-patching-array](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0330-patching-array) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0215-kth-largest-element-in-an-array](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0218-the-skyline-problem) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0307-range-sum-query-mutable](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0307-range-sum-query-mutable) |
 | [0324-wiggle-sort-ii](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0324-wiggle-sort-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -495,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0307-range-sum-query-mutable](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0307-range-sum-query-mutable) |
 | [0432-all-oone-data-structure](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0460-lfu-cache) |
 | [0901-online-stock-span](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0901-online-stock-span) |
@@ -529,10 +532,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0218-the-skyline-problem) |
+| [0307-range-sum-query-mutable](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0307-range-sum-query-mutable) |
 ## Segment Tree
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0218-the-skyline-problem) |
+| [0307-range-sum-query-mutable](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0307-range-sum-query-mutable) |
 ## Sweep Line
 |  |
 | ------- |
