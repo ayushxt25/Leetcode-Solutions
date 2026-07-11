@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0218-the-skyline-problem](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0218-the-skyline-problem) |
 | [0219-contains-duplicate-ii](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0321-create-maximum-number](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0321-create-maximum-number) |
 | [0324-wiggle-sort-ii](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0324-wiggle-sort-ii) |
 | [0330-patching-array](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0330-patching-array) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0191-number-of-1-bits](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0218-the-skyline-problem) |
+| [0240-search-a-2d-matrix-ii](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0324-wiggle-sort-ii](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0324-wiggle-sort-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0073-set-matrix-zeroes](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0085-maximal-rectangle) |
+| [0240-search-a-2d-matrix-ii](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Memoization
 |  |
 | ------- |
@@ -473,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0173-binary-search-tree-iterator](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0240-search-a-2d-matrix-ii](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## String Matching
 |  |
