@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0041-first-missing-positive](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0063-unique-paths-ii) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0037-sudoku-solver](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0089-gray-code](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0093-restore-ip-addresses) |
