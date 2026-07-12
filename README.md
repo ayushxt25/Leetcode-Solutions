@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0187-repeated-dna-sequences](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0214-shortest-palindrome](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
 | [0316-remove-duplicate-letters](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
 ## Two Pointers
@@ -493,14 +494,17 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
 ## Rolling Hash
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
 ## Hash Function
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
 ## Design
 |  |
 | ------- |
