@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0321-create-maximum-number](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0321-create-maximum-number) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0138-copy-list-with-random-pointer](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0432-all-oone-data-structure) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0143-reorder-list](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0173-binary-search-tree-iterator](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0316-remove-duplicate-letters](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0321-create-maximum-number) |
@@ -330,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0044-wildcard-matching](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0060-permutation-sequence) |
+| [0143-reorder-list](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0143-reorder-list) |
 ## Math
 |  |
 | ------- |
