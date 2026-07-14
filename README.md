@@ -329,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0025-reverse-nodes-in-k-group](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0060-permutation-sequence) |
 ## Math
 |  |
 | ------- |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0009-palindrome-number](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0089-gray-code) |
