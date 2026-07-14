@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0064-minimum-path-sum](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0031-next-permutation](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0141-linked-list-cycle) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0018-4sum](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0169-majority-element) |
