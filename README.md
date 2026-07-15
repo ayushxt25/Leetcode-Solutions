@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0046-permutations](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0064-minimum-path-sum) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0040-combination-sum-ii](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0089-gray-code](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0093-restore-ip-addresses) |
