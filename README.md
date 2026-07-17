@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0486-predict-the-winner](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0769-max-chunks-to-make-sorted) |
+| [0810-chalkboard-xor-game](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0810-chalkboard-xor-game) |
 | [0853-car-fleet](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0853-car-fleet) |
 | [0907-sum-of-subarray-minimums](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0962-maximum-width-ramp](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0962-maximum-width-ramp) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0375-guess-number-higher-or-lower-ii](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0464-can-i-win](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
+| [0810-chalkboard-xor-game](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0810-chalkboard-xor-game) |
 ## Combinatorics
 |  |
 | ------- |
@@ -534,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0260-single-number-iii](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0260-single-number-iii) |
 | [0397-integer-replacement](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0397-integer-replacement) |
 | [0464-can-i-win](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0464-can-i-win) |
+| [0810-chalkboard-xor-game](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0810-chalkboard-xor-game) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -636,8 +639,13 @@ A collection of LeetCode questions to ace the coding interview!
 | [0375-guess-number-higher-or-lower-ii](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0464-can-i-win](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
+| [0810-chalkboard-xor-game](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0810-chalkboard-xor-game) |
 ## Bitmask
 |  |
 | ------- |
 | [0464-can-i-win](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0464-can-i-win) |
+## Brainteaser
+|  |
+| ------- |
+| [0810-chalkboard-xor-game](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0810-chalkboard-xor-game) |
 <!---LeetCode Topics End-->
