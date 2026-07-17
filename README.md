@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0132-palindrome-partitioning-ii](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0140-word-break-ii) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0376-wiggle-subsequence](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0376-wiggle-subsequence) |
 | [0397-integer-replacement](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0397-integer-replacement) |
 | [0907-sum-of-subarray-minimums](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0096-unique-binary-search-trees](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0202-happy-number](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0231-power-of-two) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0375-guess-number-higher-or-lower-ii) |
 ## Combinatorics
 |  |
 | ------- |
@@ -620,4 +622,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0218-the-skyline-problem) |
+## Game Theory
+|  |
+| ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0375-guess-number-higher-or-lower-ii) |
 <!---LeetCode Topics End-->
