@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0321-create-maximum-number](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0321-create-maximum-number) |
 | [0324-wiggle-sort-ii](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0324-wiggle-sort-ii) |
+| [0327-count-of-range-sum](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0327-count-of-range-sum) |
 | [0330-patching-array](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0330-patching-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0376-wiggle-subsequence](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0376-wiggle-subsequence) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0307-range-sum-query-mutable](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0324-wiggle-sort-ii](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0324-wiggle-sort-ii) |
+| [0327-count-of-range-sum](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0327-count-of-range-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0023-merge-k-sorted-lists](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0327-count-of-range-sum) |
 ## Stack
 |  |
 | ------- |
@@ -563,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0327-count-of-range-sum) |
 | [0449-serialize-and-deserialize-bst](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -616,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0218-the-skyline-problem](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0220-contains-duplicate-iii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0327-count-of-range-sum) |
 | [0975-odd-even-jump](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0975-odd-even-jump) |
 ## Iterator
 |  |
@@ -634,12 +639,14 @@ A collection of LeetCode questions to ace the coding interview!
 | [0218-the-skyline-problem](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0218-the-skyline-problem) |
 | [0307-range-sum-query-mutable](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0327-count-of-range-sum) |
 ## Segment Tree
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0218-the-skyline-problem) |
 | [0307-range-sum-query-mutable](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0327-count-of-range-sum) |
 ## Sweep Line
 |  |
 | ------- |
