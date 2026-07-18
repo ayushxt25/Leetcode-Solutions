@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0208-implement-trie-prefix-tree](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0432-all-oone-data-structure](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0460-lfu-cache) |
 ## String
@@ -493,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -567,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0240-search-a-2d-matrix-ii](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0327-count-of-range-sum) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0449-serialize-and-deserialize-bst](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -599,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0173-binary-search-tree-iterator](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0307-range-sum-query-mutable](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0307-range-sum-query-mutable) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0432-all-oone-data-structure](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0432-all-oone-data-structure) |
 | [0449-serialize-and-deserialize-bst](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0460-lfu-cache](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0460-lfu-cache) |
@@ -612,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Data Stream
 |  |
 | ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0901-online-stock-span](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0901-online-stock-span) |
 | [1472-design-browser-history](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/1472-design-browser-history) |
 ## Ordered Set
@@ -621,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0220-contains-duplicate-iii](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0220-contains-duplicate-iii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0327-count-of-range-sum) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0975-odd-even-jump](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0975-odd-even-jump) |
 ## Iterator
 |  |
