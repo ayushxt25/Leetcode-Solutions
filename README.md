@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0334-increasing-triplet-subsequence](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0376-wiggle-subsequence](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0376-wiggle-subsequence) |
 | [0486-predict-the-winner](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
+| [0493-reverse-pairs](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0769-max-chunks-to-make-sorted) |
 | [0810-chalkboard-xor-game](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0810-chalkboard-xor-game) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0324-wiggle-sort-ii](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0324-wiggle-sort-ii) |
 | [0327-count-of-range-sum](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0327-count-of-range-sum) |
+| [0493-reverse-pairs](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0148-sort-list](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0327-count-of-range-sum) |
+| [0493-reverse-pairs](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 ## Stack
 |  |
 | ------- |
@@ -572,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0352-data-stream-as-disjoint-intervals](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0449-serialize-and-deserialize-bst](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0450-delete-node-in-a-bst) |
+| [0493-reverse-pairs](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0538-convert-bst-to-greater-tree) |
@@ -627,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0327-count-of-range-sum) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0493-reverse-pairs](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 | [0975-odd-even-jump](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0975-odd-even-jump) |
 ## Iterator
 |  |
@@ -646,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0307-range-sum-query-mutable](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0327-count-of-range-sum) |
+| [0493-reverse-pairs](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 ## Segment Tree
 |  |
 | ------- |
@@ -653,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0307-range-sum-query-mutable](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0327-count-of-range-sum) |
+| [0493-reverse-pairs](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 ## Sweep Line
 |  |
 | ------- |
