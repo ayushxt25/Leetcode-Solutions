@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0962-maximum-width-ramp](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0962-maximum-width-ramp) |
 | [0975-odd-even-jump](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0975-odd-even-jump) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1472-design-browser-history](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/1472-design-browser-history) |
 | [1649-create-sorted-array-through-instructions](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/1649-create-sorted-array-through-instructions) |
 ## Hash Table
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0787-cheapest-flights-within-k-stops](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 | [0912-sort-an-array](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0912-sort-an-array) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Merge Sort
 |  |
 | ------- |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0074-search-a-2d-matrix](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Memoization
 |  |
 | ------- |
@@ -508,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0743-network-delay-time](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Union-Find
 |  |
 | ------- |
@@ -545,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0787-cheapest-flights-within-k-stops](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Trie
 |  |
 | ------- |
@@ -724,4 +729,5 @@ A collection of LeetCode questions to ace the coding interview!
 | [0787-cheapest-flights-within-k-stops](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 <!---LeetCode Topics End-->
