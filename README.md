@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0218-the-skyline-problem](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0218-the-skyline-problem) |
 | [0743-network-delay-time](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0882-reachable-nodes-in-subdivided-graph](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 | [0912-sort-an-array](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -541,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0133-clone-graph](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0133-clone-graph) |
 | [0743-network-delay-time](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0882-reachable-nodes-in-subdivided-graph](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 ## Trie
 |  |
 | ------- |
@@ -718,4 +720,5 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0743-network-delay-time](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0882-reachable-nodes-in-subdivided-graph](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 <!---LeetCode Topics End-->
