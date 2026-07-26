@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0432-all-oone-data-structure](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0432-all-oone-data-structure) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0460-lfu-cache](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0460-lfu-cache) |
 ## String
 |  |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0402-remove-k-digits](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0449-serialize-and-deserialize-bst](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0459-repeated-substring-pattern](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0686-repeated-string-match) |
@@ -449,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0413-arithmetic-slices](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0413-arithmetic-slices) |
 | [0424-longest-repeating-character-replacement](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Tree
 |  |
 | ------- |
