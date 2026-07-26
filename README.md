@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0330-patching-array](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0330-patching-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0376-wiggle-subsequence](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0376-wiggle-subsequence) |
+| [0413-arithmetic-slices](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0413-arithmetic-slices) |
 | [0486-predict-the-winner](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0768-max-chunks-to-make-sorted-ii) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0375-guess-number-higher-or-lower-ii](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0376-wiggle-subsequence](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0376-wiggle-subsequence) |
 | [0397-integer-replacement](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0397-integer-replacement) |
+| [0413-arithmetic-slices](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0413-arithmetic-slices) |
 | [0464-can-i-win](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -443,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0219-contains-duplicate-ii](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0220-contains-duplicate-iii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0413-arithmetic-slices](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0413-arithmetic-slices) |
 ## Tree
 |  |
 | ------- |
