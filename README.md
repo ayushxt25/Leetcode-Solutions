@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0332-reconstruct-itinerary](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0332-reconstruct-itinerary) |
 | [0334-increasing-triplet-subsequence](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0376-wiggle-subsequence](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0376-wiggle-subsequence) |
 | [0413-arithmetic-slices](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0413-arithmetic-slices) |
 | [0486-predict-the-winner](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0332-reconstruct-itinerary](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0355-design-twitter) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0743-network-delay-time](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0882-reachable-nodes-in-subdivided-graph) |
