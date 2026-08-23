@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0324-wiggle-sort-ii](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0324-wiggle-sort-ii) |
 | [0327-count-of-range-sum](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0327-count-of-range-sum) |
 | [0330-patching-array](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0330-patching-array) |
+| [0332-reconstruct-itinerary](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0332-reconstruct-itinerary) |
 | [0334-increasing-triplet-subsequence](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0376-wiggle-subsequence](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0376-wiggle-subsequence) |
 | [0413-arithmetic-slices](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0413-arithmetic-slices) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0208-implement-trie-prefix-tree](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0214-shortest-palindrome](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
 | [0316-remove-duplicate-letters](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0316-remove-duplicate-letters) |
+| [0332-reconstruct-itinerary](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0332-reconstruct-itinerary) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0402-remove-k-digits](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0229-majority-element-ii](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0295-find-median-from-data-stream](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0324-wiggle-sort-ii](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0324-wiggle-sort-ii) |
+| [0332-reconstruct-itinerary](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0332-reconstruct-itinerary) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0769-max-chunks-to-make-sorted) |
 | [0853-car-fleet](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0853-car-fleet) |
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0215-kth-largest-element-in-an-array](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0218-the-skyline-problem) |
 | [0295-find-median-from-data-stream](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
+| [0332-reconstruct-itinerary](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0332-reconstruct-itinerary) |
 | [0743-network-delay-time](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0882-reachable-nodes-in-subdivided-graph) |
@@ -563,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0133-clone-graph](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0133-clone-graph) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0332-reconstruct-itinerary](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0332-reconstruct-itinerary) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0449-serialize-and-deserialize-bst](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -575,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0133-clone-graph) |
+| [0332-reconstruct-itinerary](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0332-reconstruct-itinerary) |
 | [0743-network-delay-time](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0882-reachable-nodes-in-subdivided-graph) |
@@ -762,4 +768,16 @@ A collection of LeetCode questions to ace the coding interview!
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0332-reconstruct-itinerary) |
+## Eulerian Path
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0332-reconstruct-itinerary) |
+## Semi-Eulerian Graph
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->
