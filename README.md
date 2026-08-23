@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0330-patching-array](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0330-patching-array) |
 | [0332-reconstruct-itinerary](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0332-reconstruct-itinerary) |
 | [0334-increasing-triplet-subsequence](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
+| [0347-top-k-frequent-elements](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0376-wiggle-subsequence](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0376-wiggle-subsequence) |
 | [0413-arithmetic-slices](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0413-arithmetic-slices) |
 | [0486-predict-the-winner](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0208-implement-trie-prefix-tree](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0295-find-median-from-data-stream](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0324-wiggle-sort-ii](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0324-wiggle-sort-ii) |
 | [0332-reconstruct-itinerary](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0332-reconstruct-itinerary) |
+| [0347-top-k-frequent-elements](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0769-max-chunks-to-make-sorted) |
 | [0853-car-fleet](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0853-car-fleet) |
@@ -311,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0324-wiggle-sort-ii](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0324-wiggle-sort-ii) |
 | [0327-count-of-range-sum](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0327-count-of-range-sum) |
+| [0347-top-k-frequent-elements](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0493-reverse-pairs](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0912-sort-an-array) |
@@ -323,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0218-the-skyline-problem](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0218-the-skyline-problem) |
 | [0295-find-median-from-data-stream](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0332-reconstruct-itinerary](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0332-reconstruct-itinerary) |
+| [0347-top-k-frequent-elements](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0743-network-delay-time](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0882-reachable-nodes-in-subdivided-graph) |
@@ -597,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0324-wiggle-sort-ii](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0324-wiggle-sort-ii) |
+| [0347-top-k-frequent-elements](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -681,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0169-majority-element](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Data Stream
 |  |
 | ------- |
@@ -751,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0220-contains-duplicate-iii) |
+| [0347-top-k-frequent-elements](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
