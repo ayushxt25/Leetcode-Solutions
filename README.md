@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0214-shortest-palindrome](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0227-basic-calculator-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0316-remove-duplicate-letters) |
 | [0332-reconstruct-itinerary](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0332-reconstruct-itinerary) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0213-house-robber-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0376-wiggle-subsequence](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0376-wiggle-subsequence) |
 | [0397-integer-replacement](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0397-integer-replacement) |
@@ -440,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0206-reverse-linked-list](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0231-power-of-two) |
+| [0241-different-ways-to-add-parentheses](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0486-predict-the-winner](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 ## Math
 |  |
@@ -462,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0224-basic-calculator](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0231-power-of-two) |
+| [0241-different-ways-to-add-parentheses](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0464-can-i-win](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
@@ -489,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0140-word-break-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0397-integer-replacement](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0397-integer-replacement) |
 | [0464-can-i-win](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0464-can-i-win) |
 ## Sliding Window
@@ -847,4 +852,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0164-maximum-gap) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
