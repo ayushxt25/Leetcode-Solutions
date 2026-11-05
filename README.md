@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0152-maximum-product-subarray](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0164-maximum-gap](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0174-dungeon-game](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0174-dungeon-game) |
 | [0179-largest-number](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0179-largest-number) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0148-sort-list) |
+| [0164-maximum-gap](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -777,12 +779,14 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bucket Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0164-maximum-gap) |
 | [0220-contains-duplicate-iii](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0220-contains-duplicate-iii) |
 | [0347-top-k-frequent-elements](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0164-maximum-gap) |
 | [0912-sort-an-array](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 ## Counting Sort
 |  |
@@ -820,4 +824,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0149-max-points-on-a-line) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
