@@ -859,4 +859,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
+## Database
+|  |
+| ------- |
+| [0180-consecutive-numbers](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0180-consecutive-numbers) |
 <!---LeetCode Topics End-->
