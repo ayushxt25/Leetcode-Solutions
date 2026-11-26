@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0486-predict-the-winner](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0491-non-decreasing-subsequences](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0493-reverse-pairs](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
+| [0500-keyboard-row](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0500-keyboard-row) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0769-max-chunks-to-make-sorted) |
 | [0810-chalkboard-xor-game](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0810-chalkboard-xor-game) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0460-lfu-cache](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0460-lfu-cache) |
 | [0480-sliding-window-median](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0480-sliding-window-median) |
 | [0491-non-decreasing-subsequences](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0491-non-decreasing-subsequences) |
+| [0500-keyboard-row](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0500-keyboard-row) |
 ## String
 |  |
 | ------- |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0449-serialize-and-deserialize-bst](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0451-sort-characters-by-frequency](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0459-repeated-substring-pattern) |
+| [0500-keyboard-row](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0500-keyboard-row) |
 | [0686-repeated-string-match](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0796-rotate-string) |
 ## Two Pointers
