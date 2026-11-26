@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0454-4sum-ii) |
 | [0457-circular-array-loop](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0457-circular-array-loop) |
+| [0480-sliding-window-median](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0480-sliding-window-median) |
 | [0486-predict-the-winner](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0768-max-chunks-to-make-sorted-ii) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0454-4sum-ii](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0454-4sum-ii) |
 | [0457-circular-array-loop](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0457-circular-array-loop) |
 | [0460-lfu-cache](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0460-lfu-cache) |
+| [0480-sliding-window-median](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0480-sliding-window-median) |
 ## String
 |  |
 | ------- |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0355-design-twitter](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0355-design-twitter) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0451-sort-characters-by-frequency](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0480-sliding-window-median](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0480-sliding-window-median) |
 | [0743-network-delay-time](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0882-reachable-nodes-in-subdivided-graph) |
@@ -528,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0413-arithmetic-slices](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0413-arithmetic-slices) |
 | [0424-longest-repeating-character-replacement](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0480-sliding-window-median](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0480-sliding-window-median) |
 ## Tree
 |  |
 | ------- |
@@ -891,4 +895,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0457-circular-array-loop](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0457-circular-array-loop) |
+## Treap
+|  |
+| ------- |
+| [0480-sliding-window-median](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0480-sliding-window-median) |
 <!---LeetCode Topics End-->
