@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0491-non-decreasing-subsequences](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0500-keyboard-row](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0500-keyboard-row) |
 | [0508-most-frequent-subtree-sum](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0508-most-frequent-subtree-sum) |
+| [0519-random-flip-matrix](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0519-random-flip-matrix) |
 ## String
 |  |
 | ------- |
@@ -499,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0447-number-of-boomerangs](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0447-number-of-boomerangs) |
 | [0464-can-i-win](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
+| [0519-random-flip-matrix](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0519-random-flip-matrix) |
 | [0810-chalkboard-xor-game](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0810-chalkboard-xor-game) |
 ## Combinatorics
 |  |
@@ -914,4 +916,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0508-most-frequent-subtree-sum](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0508-most-frequent-subtree-sum) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0519-random-flip-matrix](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0519-random-flip-matrix) |
+## Randomized
+|  |
+| ------- |
+| [0519-random-flip-matrix](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0519-random-flip-matrix) |
 <!---LeetCode Topics End-->
