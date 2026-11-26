@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0457-circular-array-loop](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0457-circular-array-loop) |
 | [0480-sliding-window-median](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0480-sliding-window-median) |
 | [0486-predict-the-winner](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
+| [0491-non-decreasing-subsequences](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0493-reverse-pairs](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0769-max-chunks-to-make-sorted) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0457-circular-array-loop](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0457-circular-array-loop) |
 | [0460-lfu-cache](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0460-lfu-cache) |
 | [0480-sliding-window-median](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0480-sliding-window-median) |
+| [0491-non-decreasing-subsequences](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0491-non-decreasing-subsequences) |
 ## String
 |  |
 | ------- |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0126-word-ladder-ii](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/ayushxt25/Leetcode---solutions/tree/master/0140-word-break-ii) |
+| [0491-non-decreasing-subsequences](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0491-non-decreasing-subsequences) |
 ## Linked List
 |  |
 | ------- |
@@ -683,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0260-single-number-iii](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0260-single-number-iii) |
 | [0397-integer-replacement](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0397-integer-replacement) |
 | [0464-can-i-win](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0464-can-i-win) |
+| [0491-non-decreasing-subsequences](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0810-chalkboard-xor-game](https://github.com/ayushxt25/Leetcode-Solutions/tree/master/0810-chalkboard-xor-game) |
 ## Binary Search Tree
 |  |
